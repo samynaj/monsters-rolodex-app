@@ -2,7 +2,7 @@
   "name": "monsters-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://samynaj.github.io/monsters-app",
+  "homepage": "https://samynaj.github.io/monsters-rolodex-app",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
